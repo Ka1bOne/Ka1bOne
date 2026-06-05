@@ -22,5 +22,3 @@
 <img width="50" height="50" alt="instagram_5968776" src="https://github.com/user-attachments/assets/a27f8c92-d56c-44d2-88d8-e15e66c97107" />
 </a>
 </div
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
