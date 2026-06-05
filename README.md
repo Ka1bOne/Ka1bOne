@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-<!--
-**Ka1bOne/Ka1bOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>My name is Kai</h1>
+  <h3>I am the Creator and Lead Dev for PowerInfo!</h3>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2>Making great things, for great people.</h2>
+</div>
+
+<div align="center">
+  <h2>Follow me on Social Media!</h2>
+</div>
+
+<div align="center">
+<a href="https://www.instagram.com/ka1b0ne/">
+<img width="50" height="50" alt="instagram_5968776" src="https://github.com/user-attachments/assets/a27f8c92-d56c-44d2-88d8-e15e66c97107" />
+</a>
+</div
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
