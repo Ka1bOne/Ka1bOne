@@ -4,7 +4,6 @@
 
 <div align="center">
   <h1>My name is Kai</h1>
-  <h3>I am the Creator and Lead Dev for PowerInfo!</h3>
 </div>
 
 ---
